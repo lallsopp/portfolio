@@ -1,3 +1,3 @@
 # Portfolio Website
 
-- [Portfolio Website](https://lallsopp.github.io/Documents/GitHub/lisa-allsopp.local/index.html)
+- [Portfolio Website](https://github.com/lallsopp/portfolio/blob/master/lisa-allsopp.local/index.html)
